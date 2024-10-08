@@ -46,8 +46,8 @@ Ensure you have **Node.js** and **Docker** installed on your machine.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/vireshkumarmistry/rag-chatbot
-   cd rag-chatbot/client/
+   git clone https://github.com/subhash-goswami/chatbotai
+   cd chatbotai/client/
    ```
 
 2. **Install Dependencies:**

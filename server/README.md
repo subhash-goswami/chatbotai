@@ -1,4 +1,4 @@
-# RAG Chatbot
+# Chatbot AI
 
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot using **FastAPI**. The application allows users to upload a PDF document, store its text embeddings in **Pinecone**, and interact with a chatbot powered by **OpenAI GPT-4**. The chatbot retrieves relevant passages from the document to answer user queries, enhancing the response generation process with context from the document.
 
@@ -61,8 +61,8 @@ This functionality provides a highly interactive way for users to gain insights 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vireshkumarmistry/rag-chatbot
-cd rag-chatbot/server/
+git clone https://github.com/subhash-goswami/chatbotai
+cd chatbotai/server/
 ```
 
 ### 2. Create a Python Virtual Environment

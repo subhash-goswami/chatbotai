@@ -1,10 +1,13 @@
+# ChatBot AI
 
+This project implements a Retrieval-Augmented Generation (RAG) chatbot using FastAPI. It allows users to upload PDF documents, which are processed to generate text embeddings and stored in Pinecone. The chatbot, powered by OpenAI GPT-4, leverages these embeddings to retrieve relevant sections from the documents, providing users with contextually enriched responses.
 
-### Docker Compose
+The frontend, built with Next.js and TypeScript, delivers a seamless interface for interacting with the chatbot. Users can upload documents, engage in conversations, and view messages in real time. The design, styled with Tailwind CSS, ensures a responsive and modern user experience.
 
 ---
 
-# Docker Compose - ChatBot Application
+
+# Docker Compose - ChatBotAI Application
 
 ## Running Both Services Together
 
